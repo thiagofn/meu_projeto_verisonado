@@ -1,2 +1,2 @@
-# meu_projeto_verisonado
+# meu_projeto_versionado
 Meu projeto versionado
